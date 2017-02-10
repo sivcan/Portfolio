@@ -9,7 +9,7 @@ body {
 }
 
 .text-muted {
-    color: #00A4F3;
+    color: #00a4f3;
 }
 
 .text-thin {
@@ -33,7 +33,7 @@ body {
 .separator {
     height: 5px;
     width: 100%;
-    background: #00A4F3;
+    background: #00a4f3;
     margin-bottom: 15px;
 }
 
