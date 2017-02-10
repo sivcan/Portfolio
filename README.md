@@ -1,5 +1,4 @@
 ##Portfolio
-![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
 - Project 2  under the Full Stack Web Developer Nanodegree at Udacity
 
